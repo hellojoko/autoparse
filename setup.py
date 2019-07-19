@@ -7,7 +7,7 @@ setup(
     license="MIT",
     description="Learn parsers from unlabelled data for formatted string mining",
     author="CASTES Charly",
-    author_email="ch.castes@hotmail.fr",
+    author_email="charly@hellojoko.com",
     url="https://github.com/hellojoko/autoparse",
     download_url="https://github.com/hellojoko/autoparse/archive/v_01.tar.gz",
     keywords=["AUTOMATON", "LOG", "PARSER", "UNSUPERVISED"],
